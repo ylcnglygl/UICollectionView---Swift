@@ -15,6 +15,7 @@
 		41F123EE275E95E00001B095 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41F123EC275E95E00001B095 /* LaunchScreen.storyboard */; };
 		41F123F9275E95E10001B095 /* gridcollectionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F123F8275E95E10001B095 /* gridcollectionTests.swift */; };
 		41F12404275E95E10001B095 /* gridcollectionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F12403275E95E10001B095 /* gridcollectionUITests.swift */; };
+		41F12414275E975B0001B095 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F12413275E975B0001B095 /* CollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		41F123FF275E95E10001B095 /* gridcollectionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gridcollectionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41F12403275E95E10001B095 /* gridcollectionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gridcollectionUITests.swift; sourceTree = "<group>"; };
 		41F12405275E95E10001B095 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41F12413275E975B0001B095 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				41F123E1275E95E00001B095 /* AppDelegate.swift */,
 				41F123E3275E95E00001B095 /* SceneDelegate.swift */,
 				41F123E5275E95E00001B095 /* ViewController.swift */,
+				41F12413275E975B0001B095 /* CollectionViewController.swift */,
 				41F123E7275E95E00001B095 /* Main.storyboard */,
 				41F123EA275E95E00001B095 /* Assets.xcassets */,
 				41F123EC275E95E00001B095 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				41F123E6275E95E00001B095 /* ViewController.swift in Sources */,
 				41F123E2275E95E00001B095 /* AppDelegate.swift in Sources */,
 				41F123E4275E95E00001B095 /* SceneDelegate.swift in Sources */,
+				41F12414275E975B0001B095 /* CollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
